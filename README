@@ -1,0 +1,22 @@
+for-mm
+======
+this is some s/w for micro-mouse.
+
+usage
+-----
+1. download and setup mackorone/mms
+2. setup directory (ex: prototype/)
+3. set build cmd to `make`
+4. set run cmd to `./mm-run`
+5. choose any maze file
+6. press build, then run
+7. after first phase (search), press reset (for speedrun)
+
+note
+----
+- prototype/ code works, but is ugly
+- currently rewriting, will push soon
+
+links
+-----
+mackorone/mms: https://github.com/mackorone/mms
